@@ -8,3 +8,11 @@ I built this during my grade 12 as one of my java projects!
 - Randomized AI ship placement and shooting.
 - Tracks player and computer scores.
 - Checks for sunk ships and prevents duplicate shots.
+
+--- 
+
+# How to Run
+- Clone or download this repository.
+- Open in your Java IDE (NetBeans, IntelliJ, Eclipse, etc.).
+- Compile and run the Game class.
+- Follow the instructions in the console.
